@@ -8,7 +8,6 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 /*        int a = 5;
         int b = 4;
-        lalala
         System.out.println("Hello World!"+ (a+b));*/
     }
 }
